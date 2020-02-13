@@ -37,4 +37,4 @@ Finalmente vamos conectar o power bi ao nosso banco local.
 
 Uma breve descriçaõ do meu sistema operacional e hardware.
 
-Windows 7(x64) 4 GB de memoria RAM, Processador Intel(R) Core(TM) i3-4130 CPU @ 3.40 GHz. 
+>Windows 7(x64) 4 GB de memoria RAM, Processador Intel(R) Core(TM) i3-4130 CPU @ 3.40 GHz. 
