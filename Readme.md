@@ -25,13 +25,13 @@ pgadmin4 e execute(apertando F5 ou no outro icone do raio acima do lugar que há
 
 Finalmente vamos conectar o power bi ao nosso banco local.
 
-1. Acesse o power bi.
-2. Clique em obter dados
-3. Selecione o Banco de dados postgreSQL
-4. Coloque o servidor localhost e o banco de dados com o nome do banco de dados criado anteriormente por você.
-5. Apos isto, coloque o nome de usuario definido por você na instalação do pgadmin4 e senha de acesso ao banco
- definida por você na criação do mesmo.
-6. Apos isto você pode gerenciar e ver o modelo esquematico do banco atravess do power bi, você pode atribuir os dados do banco a graficos para melhor vizualisação.
+>1. Acesse o power bi.
+>2. Clique em obter dados
+>3. Selecione o Banco de dados postgreSQL
+>4. Coloque o servidor localhost e o banco de dados com o nome do banco de dados criado anteriormente por você.
+>5. Apos isto, coloque o nome de usuario definido por você na instalação do pgadmin4 e senha de acesso ao banco
+> definida por você na criação do mesmo.
+>6. Apos isto você pode gerenciar e ver o modelo esquematico do banco atravess do power bi, você pode atribuir os dados do banco a >graficos para melhor vizualisação.
 
 ## Observações
 
