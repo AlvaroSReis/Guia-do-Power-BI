@@ -17,8 +17,8 @@ Lembre-se do nome de usuario definido por você.
 
 ### Etapa 3
 
-Um banco de dados de demonstração junto ao povoamento do pgadmin 4 estará disponivel para download [aqui](http://0.0.0.0). Apos isto, inicie o pgadmin, precisaremos inserir o sql no banco.
-Apos iniciar o pgadmin4, crie um novo servidor e banco de dados local, selecione o novo banco de dados e clique no icone do raio para poder inserir o sql, apos isto abra o arquivo sql do banco de dados de demonstração com um editor de texto e copie-o para o
+Um banco de dados de demonstração junto ao povoamento do pgadmin 4 estará disponivel para download [aqui](https://github.com/AlvaroSReis/Guia-do-Power-BI/blob/master/SQLBancoDeDadosEPovoamento.sql). Apos isto, inicie o pgadmin, precisaremos inserir o sql no banco.
+Apos iniciar o pgadmin4, crie um novo servidor e banco de dados local, selecione o novo banco de dados e clique no icone do raio para poder inserir o sql, apos isto copie o sql do banco de dados de demonstração para o
 pgadmin4 e execute(apertando F5 ou no outro icone do raio acima do lugar que há para inserir o texto) o query(consulta).
 
 ### Etapa 4
