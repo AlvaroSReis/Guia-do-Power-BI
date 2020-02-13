@@ -1,6 +1,6 @@
 # Guia de instalação e utilização do Power BI.
 
-Resumo: Neste guia sera explicado como instalar o Power BI e sua utilização com um servidor local do PostgreSQL criado atraves do Pgadmin4
+Resumo: Neste guia sera explicado como instalar o Power BI e sua utilização com um servidor local do PostgreSQL criado atraves do Pgadmin4, pode haver diferenças na instalação dependendo do sistema operacional e/ou hardware, informações sobre o meu estão abaixo apos os metodos de instalação.
 
 ## Para instalação do Power BI realizemos as seguintes etapas.
 
@@ -11,7 +11,7 @@ OBS: Para escolher opções de idioma ou especificamente a versão 32 bits(x86) 
 
 ### Etapa 2
 
-Agora para conectar o Power Bi a um servidor local PostgreSQL precisará baixar o Npgsql. [Clique aqui](https://github.com/npgsql/Npgsql/releases) para acessar a pagina de download.
+Agora para conectar o Power Bi a um servidor local PostgreSQL precisará baixar o Npgsql. [Clique aqui](https://github.com/npgsql/npgsql/releases/tag/v4.0.10) para acessar a pagina de download(baixe o arquivo .msi).
 OBS: habilite a opção Npgsql GAC installation no instalador. E apos isto baixe o Pgadmin4 para criação do banco de dados de forma local, acesse a pagina [clicando aqui](https://www.pgadmin.org/download/).
 Lembre-se do nome de usuario definido por você.
 
@@ -33,3 +33,8 @@ Finalmente vamos conectar o power bi ao nosso banco local.
  definida por você na criação do mesmo.
 6. Apos isto você pode gerenciar e ver o modelo esquematico do banco atravess do power bi, você pode atribuir os dados do banco a graficos para melhor vizualisação.
 
+## Observações
+
+Uma breve descriçaõ do meu sistema operacional e hardware.
+
+Windows 7(x64) 4 GB de memoria RAM, Processador Intel(R) Core(TM) i3-4130 CPU @ 3.40 GHz. 
